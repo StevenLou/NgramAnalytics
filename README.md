@@ -1,6 +1,6 @@
 # Ngram Analytics using AWS EMR, Hive and S3
 
-## Data Source:
+## Data Source
 Public data: https://aws.amazon.com/datasets/google-books-ngrams/
 
 ## Achievements
